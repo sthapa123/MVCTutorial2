@@ -8,7 +8,7 @@ public enum Grade
     A, B, C, D, F
 }
 
-namespace MVCTutorial1.Models
+namespace MVCTutorial2.Models
 {
     public class Enrollment
     {

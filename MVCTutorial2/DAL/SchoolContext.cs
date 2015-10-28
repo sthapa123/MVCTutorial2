@@ -1,9 +1,9 @@
 ﻿using System;
-using MVCTutorial1.Models;
+using MVCTutorial2.Models;
 using  System.Data.Entity;
 using System.Data.Entity.ModelConfiguration.Conventions;
 
-namespace MVCTutorial1.DAL
+namespace MVCTutorial2.DAL
 {
     public class SchoolContext : DbContext
     {

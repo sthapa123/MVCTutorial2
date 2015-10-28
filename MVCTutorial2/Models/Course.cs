@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace MVCTutorial1.Models
+namespace MVCTutorial2.Models
 {
     public class Course
     {

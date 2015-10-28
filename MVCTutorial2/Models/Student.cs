@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace MVCTutorial1.Models
+namespace MVCTutorial2.Models
 {
     public class Student
     {

@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Mvc;
 
-namespace MVCTutorial1
+namespace MVCTutorial2
 {
     public class FilterConfig
     {

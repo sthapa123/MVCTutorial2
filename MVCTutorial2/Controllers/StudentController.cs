@@ -6,10 +6,10 @@ using System.Linq;
 using System.Net;
 using System.Web;
 using System.Web.Mvc;
-using MVCTutorial1.DAL;
-using MVCTutorial1.Models;
+using MVCTutorial2.DAL;
+using MVCTutorial2.Models;
 
-namespace MVCTutorial1.Controllers
+namespace MVCTutorial2.Controllers
 {
     public class StudentController : Controller
     {
